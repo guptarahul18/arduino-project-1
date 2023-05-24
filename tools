@@ -1,0 +1,20 @@
+The system should contain a motor driver
+preferably L293D and 2 dc motors. The bot needs to be driven by a keyboard with ‘w’ being
+forward, ‘a’ being left, ‘s’ stopping, and ‘d’ being right. You are to use simulation software like
+tinkercad to show the simulation.
+
+Name Quantity Component
+U1 1  Arduino Uno R3
+U3 1  H-bridge Motor Driver
+M1, M2 2  DC Motor
+BAT1 1  9V Battery
+
+
+
+reference links:
+https://lastminuteengineers.com/l298n...
+https://www.google.com/search?q=skid+...
+
+
+
+
